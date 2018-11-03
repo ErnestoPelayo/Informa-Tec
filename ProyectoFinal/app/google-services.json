@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "861213586172",
+    "firebase_url": "https://informatec-3391c.firebaseio.com",
+    "project_id": "informatec-3391c",
+    "storage_bucket": "informatec-3391c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861213586172:android:323ec279e0347d57",
+        "android_client_info": {
+          "package_name": "com.example.macbook.proyectofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861213586172-sl1okh7ihliv92lo5oimdke1atnifr8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAdMrD0hXsVgNZvM2U4y4YoXZhL_q3jA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

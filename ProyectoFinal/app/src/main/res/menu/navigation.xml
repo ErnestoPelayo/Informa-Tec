@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:title="@string/s_Home" />
+
+    <item
+        android:id="@+id/navigation_contest"
+        android:title="@string/s_Contest" />
+
+    <item
+        android:id="@+id/navigation_conferences"
+        android:title="@string/s_Conferences" />
+
+</menu>
